@@ -16,7 +16,7 @@ to check the admin side [Click here](https://github.com/Chetanjorwal3/Admin-side
 
 
 ## Authors Information
-My name is Chetan Jorwal, I am a penetration tester and a flutter developer, for more information please check the links bellow.
+My name is Chetan Jorwal, I am a penetration tester and a developer, for more information please check the links bellow.
 
 - [LinkedIn: Chetan Jorwal](https://www.linkedin.com/in/chetan-jorwal-b459561a0/)
 
